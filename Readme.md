@@ -1,4 +1,4 @@
-# 🤖 AI Summarizer Comparison Playground
+# 🤖 AI Summarizer Comparison 
 
 Welcome to the **AI Summarizer Comparison App** – a fun and educational project built to explore and compare the power of AI models in text summarization.
 
@@ -43,18 +43,18 @@ Currently using:
 ## 📁 Folder Structure
 
 summarize-compare/
-├── ai-notes-summarizer-frontend/ # Frontend (React)
-├── AiNotesSummarizerApi/ # Backend (ASP.NET Core)
-├── compare-data/ # Example long texts and images
-├── README.md
-└── .gitignore
+ - ai-notes-summarizer-frontend/ # Frontend (React)
+ - AiNotesSummarizerApi/ # Backend (ASP.NET Core)
+ - compare-data/ # Example long texts and images
+ - README.md
+ - .gitignore
 
 ## 🚀 How to Run
 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/asmaa-elfatayry/summarize-compare.git
+git clone https://github.com/asmaa-elfatayry/summarize-compare-ai-models.git
 ```
 
 2. Set up your Hugging Face API Token
@@ -66,7 +66,7 @@ Add it in the backend settings:
 Option 1: Add it to appsettings.json:
 
 ```bash
-{
+}
   "HuggingFace": {
     "Token": "your-huggingface-token-here"
   }
@@ -75,21 +75,23 @@ Option 1: Add it to appsettings.json:
 
 3. Run the Backend (.NET Core API)
 
-cd AiNotesSummarizerApi
-dotnet restore
-dotnet run
+- cd AiNotesSummarizerApi
+- dotnet restore
+- dotnet run
 
 📷 Swagger Screenshot
-You can view the API documentation via Swagger once the backend runs.
+ - You can view the API documentation via Swagger once the backend runs.
 
-(![Swagger Screenshot](./swagger.png))
+![Swagger Screenshot](./swagger.png)
 
 4. Run the Frontend (React)
-   cd ai-notes-summarizer-frontend
-   npm install
-   npm start
+- cd ai-notes-summarizer-frontend
+- npm install
+- npm start
+
+
 
 📄 License
-This project is for educational and experimental use. Feel free to fork it and improve it!
 
+This project is for educational and experimental use. Feel free to fork it and improve it!
 Made with curiosity and a passion for learning and improvement.
