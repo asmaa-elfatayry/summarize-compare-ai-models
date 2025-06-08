@@ -1,0 +1,108 @@
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.staticwebassets.endpoints.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.exe
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.deps.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.runtimeconfig.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.pdb
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.AssemblyReference.cache
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfoInputs.cache
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfo.cs
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.CoreCompileInputs.cache
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\scopedcss\bundle\AiNotesSummarizerApi.styles.css
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AiNotesSummarizerApi.props
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AiNotesSummarizerApi.props
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AiNotesSummarizerApi.props
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesS.AF82607F.Up2Date
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\refint\AiNotesSummarizerApi.dll
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.pdb
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.genruntimeconfig.cache
+C:\Users\Asmaa Elfatairy\source\repos\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\ref\AiNotesSummarizerApi.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.Development.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.staticwebassets.endpoints.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.exe
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.deps.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.runtimeconfig.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.pdb
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.AssemblyReference.cache
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfoInputs.cache
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfo.cs
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.CoreCompileInputs.cache
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\scopedcss\bundle\AiNotesSummarizerApi.styles.css
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AiNotesSummarizerApi.props
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AiNotesSummarizerApi.props
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AiNotesSummarizerApi.props
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesS.AF82607F.Up2Date
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\refint\AiNotesSummarizerApi.dll
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.pdb
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.genruntimeconfig.cache
+D:\self-study\compare ai model summarizer\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\ref\AiNotesSummarizerApi.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.Development.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\appsettings.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.staticwebassets.endpoints.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.exe
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.deps.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.runtimeconfig.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\AiNotesSummarizerApi.pdb
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.AssemblyReference.cache
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfoInputs.cache
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.AssemblyInfo.cs
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.csproj.CoreCompileInputs.cache
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cs
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\scopedcss\bundle\AiNotesSummarizerApi.styles.css
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.AiNotesSummarizerApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.build.AiNotesSummarizerApi.props
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AiNotesSummarizerApi.props
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AiNotesSummarizerApi.props
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesS.AF82607F.Up2Date
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\refint\AiNotesSummarizerApi.dll
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.pdb
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\AiNotesSummarizerApi.genruntimeconfig.cache
+D:\self-study\summarize-compare-ai-models\summarize-compare-ai-models\AiNotesSummarizerApi\AiNotesSummarizerApi\obj\Debug\net8.0\ref\AiNotesSummarizerApi.dll

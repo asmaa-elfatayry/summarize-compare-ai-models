@@ -1,0 +1,16 @@
+# Node / React
+ai-notes-summarizer-frontend/node_modules/
+ai-notes-summarizer-frontend/build/
+ai-notes-summarizer-frontend/.env
+
+# .NET / API
+AiNotesSummarizerApi/bin/
+AiNotesSummarizerApi/obj/
+AiNotesSummarizerApi/.vs/
+AiNotesSummarizerApi/appsettings.*.json
+
+# General
+*.log
+.DS_Store
+.env
+.vscode/

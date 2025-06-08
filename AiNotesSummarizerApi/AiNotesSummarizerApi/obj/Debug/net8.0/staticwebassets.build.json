@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pM8LCj5igt3PB0tG4hdlEec+bdxo6rx+sm4p09PdAJc=",
+  "Source": "AiNotesSummarizerApi",
+  "BasePath": "_content/AiNotesSummarizerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

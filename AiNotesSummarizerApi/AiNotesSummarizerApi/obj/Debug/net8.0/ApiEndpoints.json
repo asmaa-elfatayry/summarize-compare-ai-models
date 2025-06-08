@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "AiNotesSummarizerApi.Controllers.NotesController",
+    "Method": "CompareSummaries",
+    "RelativePath": "compare-summaries",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AiNotesSummarizerApi.models.TextInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AiNotesSummarizerApi.Controllers.NotesController",
+    "Method": "Summarize",
+    "RelativePath": "summarize",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AiNotesSummarizerApi.models.TextInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
